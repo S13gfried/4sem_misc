@@ -1,1 +1,1 @@
-ffffffffffffffff'''
+тренировочный репозиторий для 4 семестра. nothing to see here.
